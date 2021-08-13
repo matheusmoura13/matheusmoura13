@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <br>
 
  ---  
- ## Languages:
+ ## Languages and tools:
  
 
   <div style: "display: inline_block">
