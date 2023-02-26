@@ -1,6 +1,6 @@
 ###  Hello World, I'm Matheus! 😁
 
-- 🌱 Learning: HTML, CSS, JavaScript;
+- 🌱 Learning: Python e SQL ;
 - ⚡ About me: I love manga and anime;
 
 <!--
