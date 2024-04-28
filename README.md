@@ -1,41 +1,29 @@
-###  Hello World, I'm Matheus! 😁
+# Matheus Moura
 
-- 🌱 Learning: Python e SQL ;
-- ⚡ About me: I love manga and anime;
+- Tenho 28 anos;
+- Analista de Produção na Alpargatas;
+- Apaixonado por descobrir o que os dados tem a dizer;
 
-<!--
-**matheusmoura13/matheusmoura13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conecte-se comigo
 
-Here are some ideas to get you started:
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://dio.me/users/matheusdemoura100/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:matheusdemoura100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/matheus-moura-886119204/)
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
----
-## View my stats on Github:
-<div>
-  <a href="https://github.com/matheusmoura13/matheusmoura13">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmoura13&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmoura13&layout=compact&langs_count=7&theme=highcontrast"/>-->
-    </div>
-  <br>
+### Habilidades
 
- ---  
- ## Languages and tools:
- 
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![Java](https://img.shields.io/badge/java-%23000.svg?style=for-the-badge&logo=openjdk&logoColor=30A3DC)
+![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-%23000?style=for-the-badge&logo=powerbi&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Figma](https://img.shields.io/badge/Figma-%23000?style=for-the-badge&logo=figma&logoColor=figma)
 
-  <div style: "display: inline_block">
-    <img align="center" alt="matheus-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-    <img align="center" alt="matheus-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-    <img align="center" alt="matheus-javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="matheus-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-     <img align="center" alt="matheus-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
-    <img align="center" alt="matheus-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="matheus-Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img align="center" alt="matheus-VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
-  
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusmoura13&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusmoura13&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
