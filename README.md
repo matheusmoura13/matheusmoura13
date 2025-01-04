@@ -1,8 +1,8 @@
 # Matheus Moura
 
-- Tenho 28 anos;
-- Analista de Produção na Alpargatas;
-- Apaixonado por descobrir o que os dados tem a dizer;
+- Tenho 29 anos;
+- Analista de Engenharia na Alpargatas;
+- Apaixonado por dados, cultura japonena e pelo Treze-PB;
 
 ### Conecte-se comigo
 
